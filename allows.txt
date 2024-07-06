@@ -501,6 +501,7 @@ quay.io/spotahome/*
 quay.io/strimzi/*
 quay.io/submariner/*
 quay.io/tigera/*
+docker.io/postgres/kasmweb/edge
 registry.gitlab.com/gitlab-org/**
 registry.heroiclabs.com/heroiclabs/nakama
 registry.jujucharms.com/**
