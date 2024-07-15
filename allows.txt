@@ -140,6 +140,7 @@ docker.io/kserve/*
 docker.io/kubeedge/*
 docker.io/kubeflow/*
 docker.io/kubeflowkatib/*
+docker.io/zishuo/embyserver
 docker.io/kubeflownotebookswg/*
 docker.io/kubeovn/kube-ovn
 docker.io/kuberhealthy/*
