@@ -52,6 +52,7 @@ docker.io/continuumio/miniconda3
 docker.io/coredns/*
 docker.io/csiplugin/*
 docker.io/curlimages/*
+docker.io/dockerpullxinjiawei1
 docker.io/daprio/*
 docker.io/darthsim/imgproxy
 docker.io/deepflowce/*
